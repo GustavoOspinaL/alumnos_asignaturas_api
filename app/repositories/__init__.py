@@ -1,0 +1,2 @@
+from .alumno_repository import AlumnoRepository
+from .asignatura_repository import AsignaturaRepository

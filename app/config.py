@@ -1,0 +1,1 @@
+# Aquí se puede configurar logging, variables de entorno, etc.
